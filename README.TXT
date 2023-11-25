@@ -6,7 +6,7 @@ all they need to know. The comments should usually include at least:
 
 PROJECT TITLE: Lista Ligada Simple.
 PURPOSE OF PROJECT:Realizar una lista ligada simple.
-VERSION or DATE: 5.0
+VERSION or DATE: 24/11/23 V5.0
 AUTHORS: Gabriel Esteban González Aguilar.
 USER INSTRUCTIONS:
 Proporcionar código en Java que incluya métodos para:
